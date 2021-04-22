@@ -1,0 +1,9 @@
+C:\Users\damia\source\repos\JIPP_1\dbOperations\bin\Debug\netcoreapp3.1\dbOperations.deps.json
+C:\Users\damia\source\repos\JIPP_1\dbOperations\bin\Debug\netcoreapp3.1\dbOperations.dll
+C:\Users\damia\source\repos\JIPP_1\dbOperations\bin\Debug\netcoreapp3.1\dbOperations.pdb
+C:\Users\damia\source\repos\JIPP_1\dbOperations\obj\Debug\netcoreapp3.1\dbOperations.csprojAssemblyReference.cache
+C:\Users\damia\source\repos\JIPP_1\dbOperations\obj\Debug\netcoreapp3.1\dbOperations.AssemblyInfoInputs.cache
+C:\Users\damia\source\repos\JIPP_1\dbOperations\obj\Debug\netcoreapp3.1\dbOperations.AssemblyInfo.cs
+C:\Users\damia\source\repos\JIPP_1\dbOperations\obj\Debug\netcoreapp3.1\dbOperations.csproj.CoreCompileInputs.cache
+C:\Users\damia\source\repos\JIPP_1\dbOperations\obj\Debug\netcoreapp3.1\dbOperations.dll
+C:\Users\damia\source\repos\JIPP_1\dbOperations\obj\Debug\netcoreapp3.1\dbOperations.pdb
